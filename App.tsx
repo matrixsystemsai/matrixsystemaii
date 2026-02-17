@@ -11,7 +11,7 @@ import {
   Phone
 } from 'lucide-react';
 import MatrixBackground from "./MatrixBackground";
-import Statistics from './components/Statistics';
+import Statistics from "./Statistics";
 import { supabase } from './lib/supabase';
 
 function App() {
