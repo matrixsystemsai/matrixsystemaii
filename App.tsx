@@ -10,7 +10,7 @@ import {
   Mail,
   Phone
 } from 'lucide-react';
-import MatrixBackground from './components/MatrixBackground';
+import MatrixBackground from "./MatrixBackground";
 import Statistics from './components/Statistics';
 import { supabase } from './lib/supabase';
 
